@@ -6,7 +6,7 @@
 
 ### Want To Run This GitHub Repo On Replit? Click The Run on Replit Button Below to do That.
 
-[![Run on Repl.it](https://repl.it/badge/github/BrianMitc010905/aoi.js-Template-Discord-Bot-Developer-Panel.git)](https://repl.it//github/BrianMitc010905/aoi.js-Template-Discord-Bot-Developer-Panel.git)
+[![Run on Repl.it](https://replit.com/badge/github/BrianMitc010905/aoi.js-Template-Discord-Bot-Developer-Panel.git)](https://replit.com//github/BrianMitc010905/aoi.js-Template-Discord-Bot-Developer-Panel.git)
 
 ## Please Send Feedback in this fourm: https://github.com/BrianMitc010905/
 
