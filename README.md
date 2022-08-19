@@ -4,7 +4,11 @@
 
 ## Use Replit Secrets for the .env
 
-## Please Send Feedback in this fourm:
+### Want To Run This GitHub Repo On Replit? Click The Run on Replit Button Below to do That.
+
+[![Run on Repl.it](https://repl.it/badge/github/BrianMitc010905/aoi.js-Template-Discord-Bot-Developer-Panel.git)](https://repl.it//github/BrianMitc010905/aoi.js-Template-Discord-Bot-Developer-Panel.git)
+
+## Please Send Feedback in this fourm: https://github.com/BrianMitc010905/
 
 - LINK: https://forms.gle/VNHoz4JFHR3RQYnQ6
 
