@@ -1,5 +1,7 @@
 # Template - Discord Bot + Admin Panel
 
+https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+
 ## PLEASE "DON'T USE" IF YOU DON'T KNOW HOW TO USE aoi.js!!!
 
 ## Use Replit Secrets for the .env
