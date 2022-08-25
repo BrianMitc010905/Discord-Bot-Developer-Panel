@@ -15,20 +15,6 @@
 - Dev Panel Made By: Akarui Development Team. Join There Discord Here: https://discord.gg/DJwbGR64HH
 - Discord Bot Made By: BrianMitc#7316 
 ---
-# Sneek Peeks
----
-<div align="center">
-  
-![image](images/devpanel1.PNG)
----
-!![image](images/devpanel2.PNG)
----
-![image](images/devpanel3.PNG)
----
-![image](images/devpanel4.PNG)
----
-![image](images/devpanel5.PNG)
-</div>
 ## Please Send Feedback in this fourm: 
 
 - LINK: https://forms.gle/VNHoz4JFHR3RQYnQ6
@@ -57,3 +43,17 @@
 - Email Me: `support@seendevelopment.tech`
 - My Discord: `BrianMitc#7316`
 ---
+# Sneek Peeks
+---
+<div align="center">
+  
+![image](images/devpanel1.PNG)
+---
+!![image](images/devpanel2.PNG)
+---
+![image](images/devpanel3.PNG)
+---
+![image](images/devpanel4.PNG)
+---
+![image](images/devpanel5.PNG)
+</div>
