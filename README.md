@@ -6,8 +6,8 @@
 
 ## PLEASE "`DON'T USE`" IF YOU `DON'T KNOW` HOW TO USE `aoi.js`!!
 
-## If Using `Replit.com` Use `Replit Secrets` for the `.env` 
-## If Not Change The `example.env` file to just `.env`
+### If Using `Replit.com` Use `Replit Secrets` for the `.env` 
+#### If Not Change The `example.env` file to just `.env`
 
 ## INFO: 
 
