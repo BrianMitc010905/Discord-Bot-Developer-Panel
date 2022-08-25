@@ -10,15 +10,26 @@
 #### If Not Change The `example.env` file to just `.env`
 
 ## INFO: 
-
 - Hello This is INCOMPLETE Template For people that use Aoi.js & @akarui/aoi.panel
-
 - I'm Still In Development. 
-
 - Being Developed With a NodeJS Package aoi.js & @akarui/aoi.panel
-
 - Dev Panel Made By: Akarui Development Team. Join There Discord Here: https://discord.gg/DJwbGR64HH
 - Discord Bot Made By: BrianMitc#7316 
+
+- **Sneek Peek**
+---
+<div align="center">
+  
+![image](images/devpanel1.PNG)
+
+!![image](images/devpanel2.PNG)
+
+![image](images/devpanel3.PNG)
+
+![image](images/devpanel4.PNG)
+
+![image](images/devpanel5.PNG)
+</div>
 
 ## Please Send Feedback in this fourm: 
 
