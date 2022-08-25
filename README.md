@@ -1,4 +1,4 @@
-# Template - Discord Bot + Admin Panel
+# A [Discord Bot + Developer Panel](https://github.com/BrianMitc010905/aoijs.js-Discord-Bot-and-Developer-Panel) Made By [BrianMitc010905](https://github.com/BrianMitc010905)`Discord Bot` and [Akarui Development Team](https://github.com/AkaruiDevelopment) `Developer Panel`
 
 # THIS IS A `INCOMPLETE` VERSION 
 
