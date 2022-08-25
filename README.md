@@ -44,6 +44,6 @@
 - https://www.freshworks.com/website-monitoring/
 
 
-## Support:
-
-- <Add Me on Discord For Support> My Discord: BrianMitc#7316
+## For Support Contact Me:
+- Email Me: `support@seendevelopment.tech`
+- My Discord: `BrianMitc#7316`
