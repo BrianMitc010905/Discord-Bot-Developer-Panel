@@ -29,8 +29,6 @@
 ---
 ![image](images/devpanel5.PNG)
 </div>
----
-
 ## Please Send Feedback in this fourm: 
 
 - LINK: https://forms.gle/VNHoz4JFHR3RQYnQ6
