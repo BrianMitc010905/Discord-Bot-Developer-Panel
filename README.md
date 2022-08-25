@@ -20,13 +20,13 @@
 <div align="center">
   
 ![image](images/devpanel1.PNG)
-
+---
 !![image](images/devpanel2.PNG)
-
+---
 ![image](images/devpanel3.PNG)
-
+---
 ![image](images/devpanel4.PNG)
-
+---
 ![image](images/devpanel5.PNG)
 </div>
 ---
