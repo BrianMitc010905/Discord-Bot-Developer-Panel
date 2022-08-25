@@ -7,7 +7,7 @@
 ## PLEASE "`DON'T USE`" IF YOU `DON'T KNOW` HOW TO USE `aoi.js`!!
 
 ## If Using Replit.com Use Replit Secrets for the .env 
-## If Not Change The `example.env` file to just `.env`
+### If Not Change The `example.env` file to just `.env`
 
 ## INFO: 
 
@@ -34,7 +34,7 @@
 - Leref NPM USER LINK:
 - https://www.npmjs.com/~leref
 
-### To Keep Your Bot Online 24/7 on Replit.com
+## To Keep Your Bot Online 24/7 on Replit.com
 - Express(For To keep online 24/7) NPM LINK: 
 - https://www.npmjs.com/package/express
 ### Use Both to Keep it online!
@@ -46,5 +46,4 @@
 
 ## Support:
 
-- <Add Me on Discord For Support>
-My Discord: BrianMitc#7316
+- <Add Me on Discord For Support> My Discord: BrianMitc#7316
